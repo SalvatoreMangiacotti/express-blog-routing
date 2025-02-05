@@ -15,7 +15,7 @@ router.get('/', (req, res) => {
 
 router.get('/:id', (req, res) => {
 
-    res.send("Dettagli dei post " + req.params.id);
+    res.send("Dettagli dei post ");
 
 })
 

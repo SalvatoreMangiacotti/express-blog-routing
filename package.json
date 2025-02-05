@@ -15,8 +15,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "watch": "node --watch index.js"
+    "start": "node app.js",
+    "watch": "node --watch app.js"
   },
   "dependencies": {
     "express": "^4.21.2"
